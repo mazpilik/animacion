@@ -8,10 +8,21 @@
 #main-container h1{
   font-family: 'PT Sans', sans-serif;
 }
-#transcripcion{
-  max-width: 854px;
-  font-family: 'Bitter', serif;
+#gifanimation{
+  margin-bottom: 4rem;
 }
-#transcripcion li{
-  margin-bottom: 1rem;
+#gifanimation picture{
+  width: 100%;
+  display: flex;
+  justify-content: center;
 }
+#gifanimation picture img{
+  width: 50%;
+ }
+
+ #videoanimation{
+   
+ }
+
+
+  
