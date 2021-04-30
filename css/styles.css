@@ -1,0 +1,17 @@
+#main-container{
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: center;
+  width: 100vw;
+}
+#main-container h1{
+  font-family: 'PT Sans', sans-serif;
+}
+#transcripcion{
+  max-width: 854px;
+  font-family: 'Bitter', serif;
+}
+#transcripcion li{
+  margin-bottom: 1rem;
+}
